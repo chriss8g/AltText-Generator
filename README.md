@@ -11,7 +11,7 @@
 
 [Organización](https://github.com/users/chriss8g/projects/3)
 
-[Estado del arte]()
+[Estado del arte](https://docs.google.com/spreadsheets/d/1pL2fauSHPLdCscgT15jgSb6lTREsd4W4jJ37-iZbXBw/edit?usp=sharing)
 
 ### Instrucciones
 
