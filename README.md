@@ -9,7 +9,10 @@
 - Dennis Daniel González Durán
 - Mariam Susana Álvarez Suri
 
-
 [Organización](https://github.com/users/chriss8g/projects/3)
 
 [Estado del arte]()
+
+### Instrucciones
+
+- Para ver una muestra del dataset ejecute `python dataset/generate_samples.py` con conexión a internet.
