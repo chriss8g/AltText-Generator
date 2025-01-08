@@ -15,4 +15,4 @@
 
 ### Instrucciones
 
-- Para ver una muestra del dataset ejecute `python dataset/generate_samples.py` con conexión a internet.
+- Para ver una muestra de 30 imágenes del dataset ejecute `python dataset/generate_samples.py` con conexión a internet.
