@@ -1,0 +1,29 @@
+Image 'ohcah_cgcu_000002887.jpg' contains: boat, boat.
+Image 'ohcah_cptsgo_000005967.jpg' contains: book.
+Image 'ohcah_cgcu_000002731.jpg' contains: horse, horse, horse, horse, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, horse, person, horse, horse, person, person, person.
+Image 'ohcfh_fqf_000001355.jpg' contains: chair, chair, chair, chair, dining table, chair, cup, cup, vase.
+Image 'ohcah_cpcc_000013192.jpg' contains no recognizable objects.
+Image 'ohcah_cgcu_000000231.jpg' contains: potted plant, chair.
+Image 'ohccr_cr_000001963.jpg' contains: vase.
+Image 'ohcah_cgeu_000009542.jpg' contains: person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, person, handbag, umbrella, person, person, person.
+Image 'ohcah_cptsgo_000003756.jpg' contains: bear.
+Image 'ohcaf_af_000003346.jpg' contains no recognizable objects.
+Image 'ohcbh_ch_000010585.jpg' contains: chair, potted plant, vase.
+Image 'ohcah_cptsgo_000005730.jpg' contains: boat, boat.
+Image 'ohcah_cptsgo_000006841.jpg' contains: book.
+Image 'ohcah_cptsgo_000005546.jpg' contains: car, car, car, car, car, car, truck, car, car, kite, car, car.
+Image 'ohcjg_jg_000000593.jpg' contains: cup.
+Image 'ohcfh_erl_000000034.JPG' contains: person, person, person, person, person, person, person, person, person, person, tie, person, person, person, tie, person, person, person, person, person, tie, person, person, tie, person, cell phone, person, person, tie, person, person.
+Image 'ohcah_cptsgo_000005121.jpg' contains: clock.
+Image 'ohcah_cgcu_000002965.jpg' contains: person, person, person, person, bicycle, clock, bicycle, horse.
+Image 'ohcbh_soc_000021982.jpg' contains: person, book.
+Image 'ohcmo_mo_000001228.jpg' contains: vase.
+Image 'ohcbh_ch_000008699.jpg' contains: person, person, handbag.
+Image 'ohcah_cptsgo_000005932.jpg' contains no recognizable objects.
+Image 'ohcah_cgcu_000000567.jpg' contains no recognizable objects.
+Image 'ohcah_cptsgo_000003959.jpg' contains: book.
+Image 'ohcmc_mc_000003296.jpg' contains: vase.
+Image 'ohcah_cptsgo_000006396.jpg' contains: car, car, car, car, car, car, car, car, car.
+Image 'ohcbh_soc_000020125.jpg' contains no recognizable objects.
+Image 'ohcah_cptsgo_000004054.jpg' contains: airplane.
+Image 'ohcah_cptsgo_000004254.jpg' contains: vase, potted plant.
