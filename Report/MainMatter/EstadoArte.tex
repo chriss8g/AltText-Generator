@@ -1,0 +1,37 @@
+ 
+%===================================================================================
+% Chapter: Estado del Arte
+%===================================================================================
+\chapter{Estado del Arte}\label{chapter:estadoarte}
+%===================================================================================
+
+El campo del \textit{image captioning} ha evolucionado significativamente en la última década, impulsado por el avance de modelos de aprendizaje profundo. En este capítulo, se presentan los principales enfoques y modelos que han marcado hitos en esta área, destacando sus arquitecturas, metodologías y contribuciones.
+
+\section{Modelos Basados en Redes Recurrentes}
+
+Los primeros avances en generación de descripciones de imágenes se apoyaron en arquitecturas \textit{encoder-decoder} con redes neuronales recurrentes (RNN). Uno de los primeros modelos destacados fue \textbf{Show and Tell} \cite{vinyals2015show}, que utilizó una combinación de una red convolucional (CNN) para la extracción de características visuales y una red LSTM para la generación de texto. Este modelo logró buenos resultados en datasets como MSCOCO y Flickr30k, evaluándose con métricas como BLEU y METEOR.
+
+Posteriormente, \textbf{Show, Attend and Tell} \cite{xu2015show} introdujo mecanismos de atención visual, permitiendo que el modelo enfocara diferentes regiones de la imagen en cada paso de generación. Este enfoque mejoró la calidad de las descripciones y presentó una formulación matemática más avanzada para el cálculo de la atención.
+
+\section{Modelos Basados en Redes Convolucionales}
+
+En un intento por superar las limitaciones de las RNN, \textbf{Convolutional Image Captioning} \cite{aneja2018convcap} propuso una arquitectura basada en CNNs para la generación de texto. Este modelo demostró que las CNNs pueden superar a las LSTM en tareas de \textit{captioning}, especialmente cuando se combinan con mecanismos de atención, mitigando problemas como el desvanecimiento del gradiente.
+
+\section{Atención y Modelos Jerárquicos}
+
+Otro enfoque relevante fue el modelo \textbf{Bottom-Up and Top-Down} \cite{anderson2018bottom}, que implementó un mecanismo de atención jerárquico basado en la segmentación de objetos dentro de la imagen. Este modelo mejoró el rendimiento en tareas como \textit{Visual Question Answering} e \textit{image captioning}, utilizando datasets como Visual Genome y MSCOCO.
+
+\textbf{Knowing When to Look} \cite{lu2017knowing} propuso un mecanismo de atención adaptativo mediante un centinela visual, que decide cuándo prestar atención a la imagen y cuándo confiar en el contexto textual generado previamente. Este modelo ofreció mejoras en métricas como CIDEr y BLEU.
+
+\section{Transformers y Modelos Multimodales}
+
+Con la llegada de los Transformers, los modelos de \textit{captioning} han adoptado arquitecturas más avanzadas. \textbf{Multimodal Transformer} \cite{yu2019multimodal} exploró la representación visual multi-vista para mejorar la generación de texto, mientras que \textbf{BLIP} \cite{li2022blip} amplió la capacidad de los modelos al abordar tanto la generación como la comprensión de imágenes y videos, logrando mejoras en tareas como recuperación de imágenes y preguntas visuales.
+
+Además, \textbf{CLIP} \cite{radford2021learning} introdujo el aprendizaje multimodal a gran escala utilizando correspondencias entre imágenes y texto en internet, mientras que \textbf{ViT} \cite{dosovitskiy2021image} aplicó Transformers directamente a imágenes dividiéndolas en parches, lo que representó un cambio significativo en el procesamiento de información visual.
+
+\section{Resumen y Tendencias Actuales}
+
+La evolución del \textit{image captioning} ha pasado de modelos basados en RNNs con atención visual a enfoques más sofisticados que integran Transformers y aprendizaje multimodal. Modelos recientes como BLIP y CLIP han demostrado que la combinación de visión y lenguaje en grandes volúmenes de datos puede llevar a mejoras sustanciales en la generación y comprensión de imágenes. 
+
+Las tendencias actuales apuntan a modelos más eficientes y escalables, con capacidades mejoradas en la generación de texto y una mayor comprensión del contexto visual. El impacto de estas tecnologías se extiende más allá del \textit{image captioning}, beneficiando tareas como búsqueda visual, generación de contenido y asistencia en accesibilidad.
+
