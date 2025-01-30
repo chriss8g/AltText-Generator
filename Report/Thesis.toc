@@ -10,5 +10,5 @@
 \contentsline {chapter}{\numberline {3}Propuesta}{9}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Desarrollo de la propuesta}{10}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Resultados}{11}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{12}{chapter.6}%
-\contentsline {chapter}{Referencias}{13}{chapter*.4}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{13}{chapter.6}%
+\contentsline {chapter}{Referencias}{14}{chapter*.4}%

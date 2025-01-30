@@ -4,3 +4,26 @@
 \chapter{Resultados}\label{chapter:resultados}
 %===================================================================================
 
+Para evaluar nuestro modelo de captioning de imágenes, seleccionamos cuidadosamente un conjunto de 391 imágenes provenientes de diversas colecciones, garantizando una amplia representación del dataset.
+
+Una vez que las imágenes fueron seleccionadas, nustro equipo creó captions descriptivas para cada una de ellas. Estas captions humanas fueron compiladas en un documento, que sirvió como conjunto de referencia para la evaluación.
+
+Con el documento de captions humanas listo, procedimos a utilizar nuestro modelo de captioning para generar descripciones automáticas para las mismas 391 imágenes. Estas captions generadas por el modelo fueron luego comparadas directamente con las captions humanas utilizando métricas de evaluación estándar como BLEU, METEOR, CIDEr y SPICE.
+
+Métricas usadas:
+
+- CIDEr: la métrica CIDEr (Consensus-based Image Description Evaluation) es una forma de evaluar la calidad de las descripciones textuales generadas de imágenes. La métrica CIDEr mide la similitud entre una caption generada y las captions de referencia, y se basa en el concepto de consenso: la idea de que las buenas captions no solo deben ser similares a las captions de referencia en términos de elección de palabras y gramática, sino también en términos de significado y contenido.
+
+- SPICE:
+La métrica SPICE (Semantic Propositional Image Caption Evaluation) mide la calidad semántica de las descripciones de imágenes generadas por modelos. A diferencia de otras métricas que se centran en la similitud superficial de palabras, SPICE evalúa el contenido semántico dividiendo las descripciones en representaciones de gráficos semánticos, que incluyen objetos, atributos y relaciones. Estos gráficos se comparan luego con gráficos de referencia creados a partir de descripciones humanas. La métrica SPICE se enfoca en capturar la precisión y la integridad semántica, asegurándose de que la descripción generada refleje correctamente los elementos y las relaciones presentes en la imagen.
+
+Los valores de la métrica SPICE se interpretan en términos de precisión semántica y correspondencia con las descripciones humanas. Un valor SPICE alto indica que la descripción generada por el modelo representa de manera precisa y completa los elementos y relaciones de la imagen, similar a como lo harían los humanos. Por el contrario, un valor SPICE bajo sugiere que la descripción carece de precisión o no captura adecuadamente el contenido semántico de la imagen.
+
+- BLEU(Bilingual Evaluation Understudy): es un algoritmo utilizado para evaluar la calidad del texto que ha sido traducido automáticamente de un idioma natural a otro. Fue inventado en IBM en 2001 y es una de las primeras métricas en afirmar una alta correlación con los juicios humanos de calidad.
+
+El puntaje BLEU se calcula comparando el texto traducido automáticamente (candidato) con uno o más textos traducidos profesionalmente por humanos (referencias). Se considera que la calidad es la correspondencia entre la salida de la máquina y la de un humano. La idea central detrás de BLEU es que "cuanto más cercana sea una traducción automática a una traducción profesional humana, mejor será".
+
+
+- Meteor: es una métrica utilizada para evaluar la traducción automática comparándola con traducciones humanas. Tiene en cuenta tanto la precisión como la fluidez de la traducción, así como el orden en que aparecen las palabras. El puntaje METEOR varía de 0 a 1, con un puntaje más alto indicando mejor calidad de traducción.
+
+El algoritmo detrás del puntaje METEOR compara el texto traducido con la traducción de referencia humana descomponiéndolos en fragmentos y calculando la similitud entre cada fragmento utilizando varias medidas, como la precisión de unigramas, el recall y el F-score, la superposición de bigramas y las coincidencias exactas de palabras. Finalmente, se utiliza el promedio ponderado de estas medidas para calcular el puntaje METEOR general.

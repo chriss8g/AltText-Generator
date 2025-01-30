@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1344,8 +1344,8 @@ Cap\'{\i }tulo 2.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
  [7])
-LaTeX Info: Redefining \. on input line 117.
-LaTeX Info: Redefining \% on input line 117.
+LaTeX Info: Redefining \. on input line 114.
+LaTeX Info: Redefining \% on input line 114.
  [8]
 \openout2 = `MainMatter/Propuesta.aux'.
 
@@ -1366,7 +1366,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1})
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.118 \include{MainMatter/Propuesta}
+l.115 \include{MainMatter/Propuesta}
                                      <./Graphics/diagrama.png>]
 \openout2 = `MainMatter/Desarrollo.aux'.
 
@@ -1383,17 +1383,17 @@ Cap\'{\i }tulo 4.
 
  (./MainMatter/Results.tex
 Cap\'{\i }tulo 5.
-) [11
+[11
 
 
 
 
-]
+]) [12]
 \openout2 = `BackMatter/Conclusions.aux'.
 
  (./BackMatter/Conclusions.tex
 Cap\'{\i }tulo 6.
-) [12
+) [13
 
 
 
@@ -1405,16 +1405,16 @@ Cap\'{\i }tulo 6.
 \tf@brf=\write7
 \openout7 = `Thesis.brf'.
 
- [13
+ [14
 
 
 
 
 ]))
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
 
-[14] (./Thesis.aux
+[15] (./Thesis.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
@@ -1438,10 +1438,10 @@ Package rerunfilecheck Info: File `Thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 0CFC1FACAC8E5AA74AF608E9CB325FDE;461.
  ) 
 Here is how much of TeX's memory you used:
- 27852 strings out of 476047
- 507862 string characters out of 5792075
+ 27859 strings out of 476047
+ 507947 string characters out of 5792075
  1932975 words of memory out of 5000000
- 49237 multiletter control sequences out of 15000+600000
+ 49243 multiletter control sequences out of 15000+600000
  621314 words of font info for 82 fonts, out of 8000000 for 9000
  86 hyphenation exceptions out of 8191
  105i,11n,107p,799b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1449,10 +1449,10 @@ Here is how much of TeX's memory you used:
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
-Output written on Thesis.pdf (14 pages, 332163 bytes).
+Output written on Thesis.pdf (15 pages, 336140 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
+ 214 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
  119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
