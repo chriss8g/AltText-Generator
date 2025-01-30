@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Estado del Arte}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Modelos Basados en Redes Recurrentes}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Modelos Basados en Redes Convolucionales}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Atención y Modelos Jerárquicos}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Transformers y Modelos Multimodales}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Resumen y Tendencias Actuales}{7}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Propuesta}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Desarrollo de la propuesta}{10}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Resultados}{13}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{15}{chapter.6}%
+\contentsline {chapter}{Referencias}{16}{chapter*.3}%
