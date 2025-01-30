@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1254,9 +1254,11 @@ Package pdftex.def Info: Graphics/uhlogo.pdf  used on input line 105.
 dvips/lm/lm-ec.enc} <./Graphics/uhlogo.pdf>]
 \openout2 = `FrontMatter/Abstract.aux'.
 
- (./FrontMatter/Abstract.tex)
+ (./FrontMatter/Abstract.tex
 [2
 
+
+]) [3
 
 ]
 \openout2 = `FrontMatter/Contents.aux'.
@@ -1312,7 +1314,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 \tf@toc=\write6
 \openout6 = `Thesis.toc'.
 
-) [3
+) [4
 
 
 
@@ -1323,7 +1325,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 (./MainMatter/Introduction.tex
 Cap\'{\i }tulo 1.
-) [4
+) [5
 
 
 
@@ -1333,7 +1335,7 @@ Cap\'{\i }tulo 1.
 
  (./MainMatter/EstadoArte.tex
 Cap\'{\i }tulo 2.
-[5
+[6
 
 
 
@@ -1341,20 +1343,20 @@ Cap\'{\i }tulo 2.
 ]
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
- [6])
+ [7])
 LaTeX Info: Redefining \. on input line 114.
 LaTeX Info: Redefining \% on input line 114.
- [7]
+ [8]
 \openout2 = `MainMatter/Propuesta.aux'.
 
  (./MainMatter/Propuesta.tex
 Cap\'{\i }tulo 3.
-<./Graphics/diagrama.png, id=126, 1285.80376pt x 230.8625pt>
+<./Graphics/diagrama.png, id=131, 1285.80376pt x 230.8625pt>
 File: ./Graphics/diagrama.png Graphic file (type png)
 <use ./Graphics/diagrama.png>
 Package pdftex.def Info: ./Graphics/diagrama.png  used on input line 14.
 (pdftex.def)             Requested size: 360.0pt x 64.63753pt.
-) [8
+) [9
 
 
 
@@ -1371,32 +1373,32 @@ l.115 \include{MainMatter/Propuesta}
 
 (./MainMatter/Desarrollo.tex
 Cap\'{\i }tulo 4.
-<Graphics/BLIP.png, id=134, 1938.24126pt x 888.31876pt>
+<Graphics/BLIP.png, id=139, 1938.24126pt x 888.31876pt>
 File: Graphics/BLIP.png Graphic file (type png)
 <use Graphics/BLIP.png>
 Package pdftex.def Info: Graphics/BLIP.png  used on input line 22.
 (pdftex.def)             Requested size: 360.0pt x 164.98701pt.
-<Graphics/run_clip.png, id=135, 2067.725pt x 637.38126pt>
+<Graphics/run_clip.png, id=140, 2067.725pt x 637.38126pt>
 File: Graphics/run_clip.png Graphic file (type png)
 <use Graphics/run_clip.png>
 Package pdftex.def Info: Graphics/run_clip.png  used on input line 28.
 (pdftex.def)             Requested size: 360.0pt x 110.96957pt.
-<Graphics/train_clip.png, id=136, 1224.575pt x 465.74pt>
+<Graphics/train_clip.png, id=141, 1224.575pt x 465.74pt>
 File: Graphics/train_clip.png Graphic file (type png)
 <use Graphics/train_clip.png>
 Package pdftex.def Info: Graphics/train_clip.png  used on input line 34.
 (pdftex.def)             Requested size: 360.0pt x 136.91595pt.
-<Graphics/ViT.png, id=137, 2263.45625pt x 581.17125pt>
+<Graphics/ViT.png, id=142, 2263.45625pt x 581.17125pt>
 File: Graphics/ViT.png Graphic file (type png)
 <use Graphics/ViT.png>
 Package pdftex.def Info: Graphics/ViT.png  used on input line 40.
 (pdftex.def)             Requested size: 360.0pt x 92.43062pt.
-) [9
+) [10
 
 
 
 
-] [10
+] [11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1409,7 +1411,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.116 \include{MainMatter/Desarrollo}
                                       <./Graphics/BLIP.png> <./Graphics/run_cli
-p.png>] [11
+p.png>] [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1427,17 +1429,17 @@ iT.png>]
 
  (./MainMatter/Results.tex
 Cap\'{\i }tulo 5.
-[12
+[13
 
 
 
 
-]) [13]
+]) [14]
 \openout2 = `BackMatter/Conclusions.aux'.
 
  (./BackMatter/Conclusions.tex
 Cap\'{\i }tulo 6.
-) [14
+) [15
 
 
 
@@ -1449,7 +1451,7 @@ Cap\'{\i }tulo 6.
 \tf@brf=\write7
 \openout7 = `Thesis.brf'.
 
- [15
+ [16
 
 
 
@@ -1458,7 +1460,7 @@ Cap\'{\i }tulo 6.
 LaTeX Info: Redefining \. on input line 124.
 LaTeX Info: Redefining \% on input line 124.
 
-[16] (./Thesis.aux
+[17] (./Thesis.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
@@ -1477,26 +1479,26 @@ L3 programming layer <2024-01-22>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 54846C8D85DB9B84100339A8257364D3;1975.
+(rerunfilecheck)             Checksum: B3BFDFB1BF7CC77BC9EFB168260005F4;1975.
 Package rerunfilecheck Info: File `Thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 1BB2D0834892F93D3FA97C25E16C036B;461.
+(rerunfilecheck)             Checksum: 0CFC1FACAC8E5AA74AF608E9CB325FDE;461.
  ) 
 Here is how much of TeX's memory you used:
- 27909 strings out of 476047
- 509070 string characters out of 5792075
+ 27913 strings out of 476047
+ 509151 string characters out of 5792075
  1932975 words of memory out of 5000000
- 49289 multiletter control sequences out of 15000+600000
+ 49291 multiletter control sequences out of 15000+600000
  621314 words of font info for 82 fonts, out of 8000000 for 9000
  86 hyphenation exceptions out of 8191
- 105i,11n,107p,845b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,11n,107p,799b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
-Output written on Thesis.pdf (16 pages, 1386644 bytes).
+Output written on Thesis.pdf (17 pages, 1386156 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
