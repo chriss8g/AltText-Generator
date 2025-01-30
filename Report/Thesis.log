@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.4.26)  30 JAN 2025 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1351,15 +1351,27 @@ LaTeX Info: Redefining \% on input line 117.
 
  (./MainMatter/Propuesta.tex
 Cap\'{\i }tulo 3.
+<./Graphics/diagrama.png, id=131, 1285.80376pt x 230.8625pt>
+File: ./Graphics/diagrama.png Graphic file (type png)
+<use ./Graphics/diagrama.png>
+Package pdftex.def Info: ./Graphics/diagrama.png  used on input line 14.
+(pdftex.def)             Requested size: 360.0pt x 64.63753pt.
 ) [9
 
 
 
 
-]
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.118 \include{MainMatter/Propuesta}
+                                     <./Graphics/diagrama.png>]
 \openout2 = `MainMatter/Desarrollo.aux'.
 
- (./MainMatter/Desarrollo.tex
+
+(./MainMatter/Desarrollo.tex
 Cap\'{\i }tulo 4.
 ) [10
 
@@ -1426,21 +1438,21 @@ Package rerunfilecheck Info: File `Thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: 0CFC1FACAC8E5AA74AF608E9CB325FDE;461.
  ) 
 Here is how much of TeX's memory you used:
- 27835 strings out of 476047
- 507439 string characters out of 5792075
+ 27852 strings out of 476047
+ 507862 string characters out of 5792075
  1932975 words of memory out of 5000000
- 49221 multiletter control sequences out of 15000+600000
+ 49237 multiletter control sequences out of 15000+600000
  621314 words of font info for 82 fonts, out of 8000000 for 9000
  86 hyphenation exceptions out of 8191
- 105i,11n,107p,598b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,11n,107p,799b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb>
-Output written on Thesis.pdf (14 pages, 249059 bytes).
+Output written on Thesis.pdf (14 pages, 331461 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
