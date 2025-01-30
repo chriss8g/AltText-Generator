@@ -3,8 +3,8 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 from transformers import MarianMTModel, MarianTokenizer
 from PIL import Image
 
-# Rutas de entrada y salida
-input_folder = "../../dataset/samples"  # Carpeta con las imágenes
+
+input_folder = "../images/"  # Carpeta con las imágenes
 output_file = "descripciones.txt"  # Archivo de salida
 
 # Cargar el modelo y procesador BLIP
