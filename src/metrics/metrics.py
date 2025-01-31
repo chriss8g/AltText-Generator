@@ -3,6 +3,10 @@ import pandas as pd
 from nltk.translate.bleu_score import sentence_bleu
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
+from pycocoevalcap.eval import COCOEvalCap
+from pycocoevalcap.cider.cider import Cider
+from pycocoevalcap.spice.spice import Spice
+
 
 # Descargar recursos necesarios de NLTK
 nltk.download('punkt')
@@ -57,6 +61,19 @@ average_rougeL = sum(score['rougeL'].fmeasure for score in rouge_scores) / len(r
 # Calcular promedios de BLEU y METEOR
 average_bleu = sum(bleu_scores) / len(bleu_scores) if bleu_scores else 0
 average_meteor = sum(meteor_scores) / len(meteor_scores) if meteor_scores else 0
+
+
+gts = {img_id: [human_texts_dict[img_id]] for img_id in common_images}
+res = {img_id: [generated_texts_dict[img_id]] for img_id in common_images}
+
+cider_scorer = Cider()
+cider_score, _ = cider_scorer.compute_score(gts, res)
+print(f"CIDEr score: {cider_score}")
+
+spice_scorer = Spice()
+spice_score, _ = spice_scorer.compute_score(gts, res)
+print(f"SPICE score: {spice_score}")
+
 
 # Imprimir resultados
 print(f"Average BLEU score: {average_bleu}")
