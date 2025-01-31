@@ -140,54 +140,58 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/theorem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/theorem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/theorem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/theorem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/thp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/braket/braket.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
@@ -342,6 +346,9 @@ INPUT MainMatter/Results.aux
 INPUT ./BackMatter/Conclusions.aux
 INPUT ./BackMatter/Conclusions.aux
 INPUT BackMatter/Conclusions.aux
+INPUT ./BackMatter/Apendice.aux
+INPUT ./BackMatter/Apendice.aux
+INPUT BackMatter/Apendice.aux
 INPUT ./BackMatter/Bibliography.aux
 INPUT ./BackMatter/Bibliography.aux
 INPUT BackMatter/Bibliography.aux
@@ -465,12 +472,36 @@ OUTPUT MainMatter/Propuesta.aux
 INPUT ./MainMatter/Propuesta.tex
 INPUT ./MainMatter/Propuesta.tex
 INPUT MainMatter/Propuesta.tex
+INPUT ./Graphics/diagrama.png
+INPUT ./Graphics/diagrama.png
+INPUT ./Graphics/diagrama.png
+INPUT ./Graphics/diagrama.png
 INPUT ./MainMatter/Desarrollo.tex
 INPUT ./MainMatter/Desarrollo.tex
 OUTPUT MainMatter/Desarrollo.aux
 INPUT ./MainMatter/Desarrollo.tex
 INPUT ./MainMatter/Desarrollo.tex
 INPUT MainMatter/Desarrollo.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT ./Graphics/BLIP.png
+INPUT ./Graphics/BLIP.png
+INPUT ./Graphics/BLIP.png
+INPUT ./Graphics/BLIP.png
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT ./Graphics/ViT.png
+INPUT ./Graphics/ViT.png
+INPUT ./Graphics/ViT.png
+INPUT ./Graphics/ViT.png
+INPUT ./Graphics/train_clip.png
+INPUT ./Graphics/train_clip.png
+INPUT ./Graphics/train_clip.png
+INPUT ./Graphics/train_clip.png
+INPUT ./Graphics/run_clip.png
+INPUT ./Graphics/run_clip.png
+INPUT ./Graphics/run_clip.png
+INPUT ./Graphics/run_clip.png
 INPUT ./MainMatter/Results.tex
 INPUT ./MainMatter/Results.tex
 OUTPUT MainMatter/Results.aux
@@ -483,6 +514,57 @@ OUTPUT BackMatter/Conclusions.aux
 INPUT ./BackMatter/Conclusions.tex
 INPUT ./BackMatter/Conclusions.tex
 INPUT BackMatter/Conclusions.tex
+INPUT ./BackMatter/Apendice.tex
+INPUT ./BackMatter/Apendice.tex
+OUTPUT BackMatter/Apendice.aux
+INPUT ./BackMatter/Apendice.tex
+INPUT ./BackMatter/Apendice.tex
+INPUT BackMatter/Apendice.tex
+INPUT ./Graphics/un dibujo de un hombre con un abrigo de piel.jpg
+INPUT ./Graphics/un dibujo de un hombre con un abrigo de piel.jpg
+INPUT ./Graphics/un dibujo de un hombre con un abrigo de piel.jpg
+INPUT ./Graphics/un dibujo de un hombre con un abrigo de piel.jpg
+INPUT ./Graphics/un dibujo de un hombre con un abrigo de piel.jpg
+INPUT ./Graphics/un espejo con un mango de plata.jpg
+INPUT ./Graphics/un espejo con un mango de plata.jpg
+INPUT ./Graphics/un espejo con un mango de plata.jpg
+INPUT ./Graphics/un espejo con un mango de plata.jpg
+INPUT ./Graphics/un espejo con un mango de plata.jpg
+INPUT ./Graphics/una portada de un libro con un ninho jugando con una pelota.jpg
+INPUT ./Graphics/una portada de un libro con un ninho jugando con una pelota.jpg
+INPUT ./Graphics/una portada de un libro con un ninho jugando con una pelota.jpg
+INPUT ./Graphics/una portada de un libro con un ninho jugando con una pelota.jpg
+INPUT ./Graphics/una portada de un libro con un ninho jugando con una pelota.jpg
+INPUT ./Graphics/un grupo de seis japonenes jugando a las cartas.jpg
+INPUT ./Graphics/un grupo de seis japonenes jugando a las cartas.jpg
+INPUT ./Graphics/un grupo de seis japonenes jugando a las cartas.jpg
+INPUT ./Graphics/un grupo de seis japonenes jugando a las cartas.jpg
+INPUT ./Graphics/un grupo de seis japonenes jugando a las cartas.jpg
+INPUT ./Graphics/un pajaro sentado sobre una rama con las alas extendidas.jpg
+INPUT ./Graphics/un pajaro sentado sobre una rama con las alas extendidas.jpg
+INPUT ./Graphics/un pajaro sentado sobre una rama con las alas extendidas.jpg
+INPUT ./Graphics/un pajaro sentado sobre una rama con las alas extendidas.jpg
+INPUT ./Graphics/un pajaro sentado sobre una rama con las alas extendidas.jpg
+INPUT ./Graphics/una moneda con una foto de un hombre en ella.jpg
+INPUT ./Graphics/una moneda con una foto de un hombre en ella.jpg
+INPUT ./Graphics/una moneda con una foto de un hombre en ella.jpg
+INPUT ./Graphics/una moneda con una foto de un hombre en ella.jpg
+INPUT ./Graphics/una moneda con una foto de un hombre en ella.jpg
+INPUT ./Graphics/un pan blanco con un glaseado blanco.jpg
+INPUT ./Graphics/un pan blanco con un glaseado blanco.jpg
+INPUT ./Graphics/un pan blanco con un glaseado blanco.jpg
+INPUT ./Graphics/un pan blanco con un glaseado blanco.jpg
+INPUT ./Graphics/un pan blanco con un glaseado blanco.jpg
+INPUT ./Graphics/una caja pequenha con un mango de metal y un mango de metal.jpg
+INPUT ./Graphics/una caja pequenha con un mango de metal y un mango de metal.jpg
+INPUT ./Graphics/una caja pequenha con un mango de metal y un mango de metal.jpg
+INPUT ./Graphics/una caja pequenha con un mango de metal y un mango de metal.jpg
+INPUT ./Graphics/una caja pequenha con un mango de metal y un mango de metal.jpg
+INPUT ./Graphics/un juguete pequenho con un par de zapatos en el.jpg
+INPUT ./Graphics/un juguete pequenho con un par de zapatos en el.jpg
+INPUT ./Graphics/un juguete pequenho con un par de zapatos en el.jpg
+INPUT ./Graphics/un juguete pequenho con un par de zapatos en el.jpg
+INPUT ./Graphics/un juguete pequenho con un par de zapatos en el.jpg
 INPUT ./BackMatter/Bibliography.tex
 INPUT ./BackMatter/Bibliography.tex
 OUTPUT BackMatter/Bibliography.aux
@@ -523,6 +605,9 @@ INPUT MainMatter/Results.aux
 INPUT ./BackMatter/Conclusions.aux
 INPUT ./BackMatter/Conclusions.aux
 INPUT BackMatter/Conclusions.aux
+INPUT ./BackMatter/Apendice.aux
+INPUT ./BackMatter/Apendice.aux
+INPUT BackMatter/Apendice.aux
 INPUT ./BackMatter/Bibliography.aux
 INPUT ./BackMatter/Bibliography.aux
 INPUT BackMatter/Bibliography.aux
@@ -532,7 +617,14 @@ INPUT ./Thesis.brf
 INPUT ./Thesis.brf
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr6.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmri10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmro10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb

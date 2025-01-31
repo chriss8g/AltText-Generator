@@ -3,7 +3,8 @@
 %===================================================================================
 \chapter{Conclusiones}\label{chapter:conclusions}
 
-Para la generación de texto alternativo en las imágenes del repositorio digital del historiador de La Habana, seleccionamos los modelos de procesamiento BLIP y Visual Transformers (GPT-2).
-El análisis exploratorio del dataset nos permitió ajustar los modelos de manera adecuada, usando CLIP para la selección de descripciones.
-Las métricas BLEU y METEOR mostraron el desempeño de los modelos, y el análisis estadístico permitió identificar áreas de mejora. Este estudio sienta una base para futuras optimizaciones en modelos y estrategias para la generación de texto alternativo.
+La evolución de los modelos de generación de descripciones de imágenes ha sido notable en los últimos años, pasando de arquitecturas basadas en RNNs con atención visual a enfoques más avanzados que integran Transformers y aprendizaje multimodal.Modelos recientes, como CLIP y BLIP, han demostrado el potencial de combinar grandes volúmenes de datos de texto e imagen, logrando una comprensión más profunda del contenido visual. Estos avances no solo han mejorado la calidad y precisión de las descripciones generadas, sino que también han abierto nuevas posibilidades en tareas de visión y lenguaje, estableciendo el camino para futuras investigaciones en la intersección entre inteligencia artificial y percepción visual.
 
+Los resultados obtenidos en la evaluación del modelo presentado evidencian que, si bien el sistema logra generar descripciones con coherencia léxica, presenta limitaciones en la captura de relaciones semánticas profundas.  Sin embargo, es importante tener en cuenta que la generación de subtítulos manualmente se limita a un conjunto específico de imágenes y no fueron realizadas por expertos.
+Al no contar con un método supervisado previamente, la evaluación de los resultados constituyó un desafío.
+Los puntajes moderados en METEOR y ROUGE reflejan que el modelo mantiene cierta similitud con las descripciones humanas, lo que implica que la generación de texto sigue patrones lingüísticos aceptables, aunque con margen de mejora en la exactitud del contenido.    

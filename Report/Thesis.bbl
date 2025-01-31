@@ -30,19 +30,19 @@ Jun Yu, Jing Li, Zhou Yu, and Qingming Huang.
 \newblock Multimodal transformer with multi-view visual representation for image captioning.
 \newblock {\em arXiv preprint arXiv:1905.07841}, 2019.
 
-\bibitem{li2022blip}
-Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi.
-\newblock Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation.
-\newblock {\em arXiv preprint arXiv:2201.12086}, 2022.
+\bibitem{dosovitskiy2021image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
+\newblock {\em arXiv preprint arXiv:2010.11929}, 2021.
 
 \bibitem{radford2021learning}
 Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever.
 \newblock Learning transferable visual models from natural language supervision.
 \newblock {\em arXiv preprint arXiv:2103.00020}, 2021.
 
-\bibitem{dosovitskiy2021image}
-Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
-\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
-\newblock {\em arXiv preprint arXiv:2010.11929}, 2021.
+\bibitem{li2022blip}
+Junnan Li, Dongxu Li, Caiming Xiong, and Steven Hoi.
+\newblock Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation.
+\newblock {\em arXiv preprint arXiv:2201.12086}, 2022.
 
 \end{thebibliography}
